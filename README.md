@@ -5,6 +5,8 @@ The purpose of this analysis is to analyze Amazon reviews written by members of 
 
 ## Result
 ![Results](Resources/Capture.PNG)
+
+
 As seen above, here are the results:
 - There were no Vine reviews, therefore all 1688884 reviews were non-vine reviews
 - All 1345146 5-star reviews were non-vine reviews
